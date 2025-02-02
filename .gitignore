@@ -1,0 +1,17 @@
+# Ignore binary files (typically with common extensions like .exe, .out, .bin, etc.)
+*.exe
+*.out
+*.bin
+*.obj
+*.o
+*.dll
+*.so
+*.dylib
+*.pyc
+*.pyo
+
+# Ignore JSON files
+*.json
+
+# Ignore TXT files
+*.txt
