@@ -15,3 +15,13 @@
 
 # Ignore TXT files
 *.txt
+Basics/calculations
+Basics/debugvisualizer
+Basics/interest
+Basics/print
+Basics/stringcombinations
+ControlFlow/calculations
+Functions/functions
+Pattern/fullpyramid
+Pattern/halfpyramid
+Pattern/otherpyramids
